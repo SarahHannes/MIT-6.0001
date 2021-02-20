@@ -1,4 +1,4 @@
-# MIT-6-0001
+# MIT-6.0001
 Repository for MIT Open Courseware Problem Sets
 
 Description and test suites (if any) for each problem set can be found in its respective folders.
